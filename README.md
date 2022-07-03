@@ -1,2 +1,2 @@
-# Indian-Premiere-League--main
-Indian-Premiere-League--main
+# Exploratory-Data-Analysis-on-Indian-Premiere-League-
+Perform Exploratory Data Analysis on 'Indian Premiere League' As a sports analysts, find out the most successful teams, players and factors contributing win or loss of a team. Suggest teams or players a company should endorse for its products
